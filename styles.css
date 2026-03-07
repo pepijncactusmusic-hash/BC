@@ -43,7 +43,7 @@
 
 
 @keyframes hazeInOut{
-  0%  { font-variation-settings: 'wtun' 100; color: #black;}
+  0%  { font-variation-settings: 'wtun' 100; color: black;}
   35% { font-variation-settings: 'wtun' 900; color: #FF4808;}
   100%{ font-variation-settings: 'wtun' 100; color: #3FA535;}
 }
