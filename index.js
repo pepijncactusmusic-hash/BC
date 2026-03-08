@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         $letterID = Number(letter.id /20);
         console.log($letterID);
         
-        letter.style.animation = 'hazeInOut 4s';
+        letter.style.animation = 'hazeInOut 4s cubic-bezier(0.85, 0, 0.15, 1)';
         letter.style.animationIterationCount = 'infinite';
         letter.style.animationDelay = `${$letterID}s`;
                     
