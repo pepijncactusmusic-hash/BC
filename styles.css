@@ -1,7 +1,7 @@
 @font-face {
   font-family: "PurpleHaze";
-  src: url("./PurpleHaze-Trial.woff2") format("woff2-variations"),
-       url("./PurpleHaze-Trial.woff") format("woff-variations");
+  src: url("./PurpleHaze-Variable_v0.6.woff2") format("woff2-variations"),
+       url("./PurpleHaze-Variable_v0.6.woff") format("woff-variations");
 }
 
 .word {
