@@ -17,14 +17,14 @@
   text-align: center;
   font-size: 10rem;
   font-weight: 500;
-	font-variation-settings: 'wtun' 100;
+	font-variation-settings: 'wght' 100;
 
 }
 
 /* .letter:hover {
   color: red;
   animation: hazeIn 3s;
-	font-variation-settings: 'wtun' 800;
+	font-variation-settings: 'wght' 800;
   transition: all 2.5s ease-out;
 } */
 
@@ -32,18 +32,18 @@
 
 
 @keyframes hazeIn {
-  from { font-variation-settings: 'wtun' 100;}
-  to { font-variation-settings: 'wtun' 800;}
+  from { font-variation-settings: 'wght' 100;}
+  to { font-variation-settings: 'wght' 800;}
 }
 
 @keyframes hazeOut {
-  from { font-variation-settings: 'wtun' 800;}
-  to { font-variation-settings: 'wtun' 100;}
+  from { font-variation-settings: 'wght' 800;}
+  to { font-variation-settings: 'wght' 100;}
 }
 
 
 @keyframes hazeInOut{
-  0%  { font-variation-settings: 'wtun' 100; color: #2D66EB;}
-  35% { font-variation-settings: 'wtun' 900; color: #FF4808;}
-  100%{ font-variation-settings: 'wtun' 100; color: #3FA535;}
+  0%  { font-variation-settings: 'wght' 100; color: #2D66EB;}
+  35% { font-variation-settings: 'wght' 900; color: #FF4808;}
+  100%{ font-variation-settings: 'wght' 100; color: #3FA535;}
 }
